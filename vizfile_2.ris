@@ -26,7 +26,7 @@ AU  - oleksandr vlasiuk
 PY  - 2021
 TI  - potential theory with multivariate kernels
 KW  - Classical Analysis and ODEs
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -129,7 +129,7 @@ TI  - representation formulas and pointwise properties for barron functions
 KW  - Machine Learning
 KW  - Machine Learning
 KW  - Analysis of PDEs
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -153,7 +153,7 @@ TY  - JOUR
 AU  - gideon schechtman
 PY  - 2021
 TI  - the shai property for the operators on l p
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -341,7 +341,7 @@ AU  - chris gartland
 PY  - 2019
 TI  - thick families of geodesics and differentiation
 KW  - Metric Geometry
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -419,7 +419,7 @@ AU  - gilles pisier
 PY  - 2020
 TI  - seemingly injective von neumann algebras
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -566,21 +566,7 @@ AU  - patricia alonso ruiz
 PY  - 2021
 TI  - minimal gap in the spectrum of the sierpinski gasket
 KW  - Spectral Theory
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - marius junge
-PY  - 2020
-TI  - complete logarithmic sobolev inequalities via ricci curvature bounded   below
-KW  - Operator Algebras
-ER  - 
-
-TY  - JOUR
-AU  - marius junge
-PY  - 2020
-TI  - complete logarithmic sobolev inequalities via ricci curvature bounded   below ii
-KW  - Operator Algebras
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -653,7 +639,7 @@ TY  - JOUR
 AU  - thomas schlumprecht
 PY  - 2020
 TI  - the geometry of hamming type metrics and their embeddings into banach   spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
 ER  - 
 
@@ -697,7 +683,7 @@ TY  - JOUR
 AU  - jurij volcic
 PY  - 2020
 TI  - optimization over trace polynomials
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Mathematical Physics
 KW  - Optimization and Control
 ER  - 
@@ -884,7 +870,7 @@ TY  - JOUR
 AU  - fabrice baudoin
 PY  - 2020
 TI  - gagliardo nirenberg trudinger moser and morrey inequalities on   dirichlet spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Analysis of PDEs
 KW  - Metric Geometry
 KW  - Probability
@@ -925,7 +911,7 @@ TY  - JOUR
 AU  - andras zsak
 PY  - 2020
 TI  - banach spaces for which the space of operators has  2   mathfrak c     closed ideals
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -1009,13 +995,6 @@ KW  - Operator Algebras
 ER  - 
 
 TY  - JOUR
-AU  - aitor perez
-PY  - 2020
-TI  - on spectra and spectral measures of schreier and cayley graphs
-KW  - Group Theory
-ER  - 
-
-TY  - JOUR
 AU  - brian simanek
 PY  - 2019
 TI  - spectra of cayley graphs of the lamplighter group and random schrodinger   operators
@@ -1054,15 +1033,7 @@ AU  - patricia alonso ruiz
 PY  - 2019
 TI  - heat kernel analysis on diamond fractals
 KW  - Probability
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - byung jun yoon
-PY  - 2021
-TI  - robust importance sampling for error estimation in the context of   optimal bayesian transfer learning
-KW  - Machine Learning
-KW  - Machine Learning
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -1108,7 +1079,7 @@ TY  - JOUR
 AU  - jurij volcic
 PY  - 2019
 TI  - plurisubharmonic noncommutative rational functions
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Complex Variables
 ER  - 
 
@@ -1159,7 +1130,7 @@ TY  - JOUR
 AU  - franz luef
 PY  - 2018
 TI  - a duality principle for groups ii  multi frames meet super frames
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -1261,7 +1232,7 @@ TY  - JOUR
 AU  - nicolas laracuente
 PY  - 2018
 TI  - fisher information and logarithmic sobolev inequality for matrix valued   functions
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Information Theory
 KW  - Information Theory
 ER  - 
@@ -1314,7 +1285,7 @@ AU  - richard lynch
 PY  - 2017
 TI  - preserving injectivity under subgaussian mappings and its application to   compressed sensing
 KW  - Information Theory
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Information Theory
 ER  - 
 
@@ -1483,7 +1454,7 @@ TY  - JOUR
 AU  - j  volcic
 PY  - 2018
 TI  - noncommutative polynomials describing convex sets
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Optimization and Control
 ER  - 
 
@@ -1530,13 +1501,6 @@ TY  - JOUR
 AU  - edriss s  titi
 PY  - 2019
 TI  - well posedness of strong solutions to the anelastic equations of   stratified viscous flows
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - edriss s  titi
-PY  - 2018
-TI  - local well posedness of strong solutions to the three dimensional   compressible primitive equations
 KW  - Analysis of PDEs
 ER  - 
 
@@ -1603,7 +1567,7 @@ TY  - JOUR
 AU  - scott mccullough
 PY  - 2016
 TI  - bianalytic maps between free spectrahedra
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Complex Variables
 ER  - 
 
@@ -1611,14 +1575,14 @@ TY  - JOUR
 AU  - jurij volcic
 PY  - 2018
 TI  - bianalytic free maps between spectrahedra and spectraballs
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - scott mccullough
 PY  - 2017
 TI  - free bianalytic maps between spectrahedra and spectraballs in a generic   setting
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -1642,7 +1606,7 @@ AU  - jurij volcic
 PY  - 2019
 TI  - local theory of free noncommutative functions  germs meromorphic   functions and hermite interpolation
 KW  - Rings and Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -1664,7 +1628,7 @@ TY  - JOUR
 AU  - thomas schlumprecht
 PY  - 2018
 TI  - strategically reproducible bases and the factorization property
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -1867,7 +1831,7 @@ PY  - 2019
 TI  - on the bi lipschitz geometry of lamplighter graphs
 KW  - Metric Geometry
 KW  - Combinatorics
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -1971,7 +1935,7 @@ AU  - thomas schlumprecht
 PY  - 2018
 TI  - a new coarsely rigid class of banach spaces
 KW  - Metric Geometry
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -2033,27 +1997,6 @@ KW  - Statistics Theory
 ER  - 
 
 TY  - JOUR
-AU  - steven taliaferro
-PY  - 2019
-TI  - pointwise bounds and blow up for systems of nonlinear fractional   parabolic inequalities
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2015
-TI  - pointwise bounds and blow up for nonlinear polyharmonic inequalities
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2019
-TI  - pointwise bounds and blow up for nonlinear fractional parabolic   inequalities
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
 AU  - mihai nica
 PY  - 2018
 TI  - products of many large random matrices and gradients in deep neural   networks
@@ -2087,7 +2030,7 @@ TY  - JOUR
 AU  - gideon schechtman
 PY  - 2017
 TI  - impossibility of dimension reduction in the nuclear norm
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Computational Geometry
 KW  - Metric Geometry
 ER  - 
@@ -2271,7 +2214,7 @@ AU  - andrew comech
 PY  - 2018
 TI  - solutions with compact time spectrum to nonlinear klein  gordon and   schroedinger equations and the titchmarsh theorem for partial convolution
 KW  - Analysis of PDEs
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Mathematical Physics
 ER  - 
 
@@ -2356,7 +2299,7 @@ AU  - jean bernard lasserre
 PY  - 2019
 TI  - computation of chebyshev polynomials for union of intervals
 KW  - Optimization and Control
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Numerical Analysis
 ER  - 
 
@@ -2435,13 +2378,6 @@ TI  - motion of a finite composite cylindrical annulus comprised of nonlinear   
 ER  - 
 
 TY  - JOUR
-AU  - joseph pasciak
-PY  - 2018
-TI  - comparison analysis on two numerical methods for fractional diffusion   problems based on rational approximations of  t g   0  le t  le 1 
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - delio mugnolo
 PY  - 2018
 TI  - surgery principles for the spectral analysis of quantum graphs
@@ -2452,7 +2388,7 @@ TY  - JOUR
 AU  - tomasz kania
 PY  - 2018
 TI  - embedding banach spaces into the space of bounded functions with   countable support
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -2526,7 +2462,7 @@ TY  - JOUR
 AU  - andrew swift
 PY  - 2017
 TI  - coarse embeddings into superstable spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -2571,7 +2507,7 @@ TY  - JOUR
 AU  - petros valettas
 PY  - 2017
 TI  - variance estimates and almost euclidean structure
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -2623,24 +2559,6 @@ PY  - 2018
 TI  - on projective and affine equivalence of sub riemannian metrics
 KW  - Differential Geometry
 KW  - Optimization and Control
-ER  - 
-
-TY  - JOUR
-AU  - dmitry ponomarev
-PY  - 2018
-TI  - spinor helicity formalism for massless fields in ads    4 
-ER  - 
-
-TY  - JOUR
-AU  - dmitry ponomarev
-PY  - 2020
-TI  - spinor helicity formalism for massless fields in ads  4  iii  contact   four point amplitudes
-ER  - 
-
-TY  - JOUR
-AU  - dmitry ponomarev
-PY  - 2019
-TI  - spinor helicity formalism for massless fields in ads  4  ii  potentials
 ER  - 
 
 TY  - JOUR
@@ -2755,23 +2673,7 @@ ER  -
 TY  - JOUR
 AU  - eric t  chung
 PY  - 2019
-TI  - generalized multiscale finite element method for the poroelasticity   problem in multicontinuum media
-KW  - Numerical Analysis
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - eric t  chung
-PY  - 2019
 TI  - generalized multiscale finite element method for multicontinua   unsaturated flow problems in fractured porous media
-KW  - Numerical Analysis
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - eric t  chung
-PY  - 2019
-TI  - generalized multiscale finite element method for the poroelasticity   problem in multicontinuum media
 KW  - Numerical Analysis
 KW  - Numerical Analysis
 ER  - 
@@ -3004,13 +2906,6 @@ KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
-AU  - abner j  salgado
-PY  - 2018
-TI  - finite element approximation of an obstacle problem for a class of   integro differential operators
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - justin owen
 PY  - 2017
 TI  - a priori error estimates for finite element approximations to   eigenvalues and eigenfunctions of the laplace beltrami operator
@@ -3123,7 +3018,7 @@ TY  - JOUR
 AU  - rongwei yang
 PY  - 2016
 TI  - hermitian geometry on resolvent set i 
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -3146,7 +3041,7 @@ AU  - guoliang yu
 PY  - 2017
 TI  - a new index theorem for monomial ideals by resolutions
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - K-Theory and Homology
 ER  - 
 
@@ -3206,15 +3101,8 @@ TY  - JOUR
 AU  - petros valettas
 PY  - 2017
 TI  - dichotomies structure and concentration in normed spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
-ER  - 
-
-TY  - JOUR
-AU  - thomas y  hou
-PY  - 2016
-TI  - adaptive multiscale model reduction with generalized multiscale finite   element methods
-KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
@@ -3369,7 +3257,7 @@ TY  - JOUR
 AU  - gilles pisier
 PY  - 2016
 TI  - spectral gap properties of the unitary groups  around rider s results on   non commutative sidon sets
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 KW  - Representation Theory
 ER  - 
@@ -3458,21 +3346,21 @@ AU  - rui liu
 PY  - 2011
 TI  - operator valued measures dilations and the theory of frames
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - rui liu
 PY  - 2014
 TI  - dilations of frames operator valued measures and bounded linear maps
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - thomas schlumprecht
 PY  - 2017
 TI  - the coarse geometry of tsirelson s space and applications
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Group Theory
 KW  - K-Theory and Homology
 KW  - Metric Geometry
@@ -3505,7 +3393,7 @@ TY  - JOUR
 AU  - gilles pisier
 PY  - 2017
 TI  - a note on sidon sets in bounded orthonormal systems
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -3579,7 +3467,7 @@ TY  - JOUR
 AU  - andrew swift
 PY  - 2017
 TI  - a coding of bundle graphs and their embeddings into banach spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
 ER  - 
 
@@ -3588,7 +3476,7 @@ AU  - mateusz wasilewski
 PY  - 2017
 TI  - complete metric approximation property for  q  araki woods algebras
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -3686,7 +3574,7 @@ AU  - david kerr
 PY  - 2017
 TI  - quantum groups property  t  and weak mixing
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Quantam Algebra
 ER  - 
 
@@ -3735,29 +3623,12 @@ KW  - Quantam Algebra
 ER  - 
 
 TY  - JOUR
-AU  - andras zsak
-PY  - 2019
-TI  - on the bi lipschitz geometry of lamplighter graphs
-KW  - Metric Geometry
-KW  - Combinatorics
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
 AU  - sheng zhang
 PY  - 2016
 TI  - on the geometry of the countably branching diamond graphs
 KW  - Metric Geometry
 KW  - Combinatorics
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - peter howard
-PY  - 2020
-TI  - the maslov index and spectral counts for linear hamiltonian systems on     mathbb r  
-KW  - Classical Analysis and ODEs
-KW  - Dynamical Systems
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -3781,7 +3652,7 @@ AU  - dmitriy zanin
 PY  - 2015
 TI  - an upper triangular decomposition theorem for some unbounded operators   affiliated to ii 1 factors
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -3801,13 +3672,6 @@ AU  - ruriko yoshida
 PY  - 2016
 TI  - principal component analysis and the locus of the frechet mean in the   space of phylogenetic trees
 KW  - Methodology
-ER  - 
-
-TY  - JOUR
-AU  - aitor perez
-PY  - 2020
-TI  - on spectra and spectral measures of schreier and cayley graphs
-KW  - Group Theory
 ER  - 
 
 TY  - JOUR
@@ -3860,7 +3724,7 @@ TY  - JOUR
 AU  - carl pearcy
 PY  - 2017
 TI  - almost invariant half spaces for operators on hilbert space  ii    operator matrices
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -3888,14 +3752,14 @@ TY  - JOUR
 AU  - andras zsak
 PY  - 2016
 TI  - closed ideals of operators between the classical sequence spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - andras zsak
 PY  - 2020
 TI  - the cardinality of the sublattice of closed ideals of operators between   certain classical sequence spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -3916,7 +3780,7 @@ TY  - JOUR
 AU  - bunyamin sari
 PY  - 2016
 TI  - a study of conditional spreading sequences
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -3990,15 +3854,6 @@ PY  - 2016
 TI  - semialgebraic splines
 KW  - Commutative Algebra
 KW  - Algebraic Geometry
-ER  - 
-
-TY  - JOUR
-AU  - frank sottile
-PY  - 2019
-TI  - bivariate semialgebraic splines
-KW  - Commutative Algebra
-KW  - Numerical Analysis
-KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
@@ -4134,7 +3989,7 @@ TY  - JOUR
 AU  - richard g  lynch
 PY  - 2014
 TI  - the unconditional constants for hilbert space frame expansions
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -4297,38 +4152,9 @@ KW  - K-Theory and Homology
 ER  - 
 
 TY  - JOUR
-AU  - rudolf zeidler
-PY  - 2017
-TI  - on the range of the relative higher index and the higher rho invariant   for positive scalar curvature
-KW  - K-Theory and Homology
-KW  - Differential Geometry
-ER  - 
-
-TY  - JOUR
 AU  - atanas stefanov
 PY  - 2014
 TI  - asymptotic stability of solitary waves in generalized gross  neveu model
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2015
-TI  - pointwise bounds and blow up for systems of semilinear parabolic   inequalities and nonlinear heat potential estimates
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2015
-TI  - pointwise bounds and blow up for choquard pekar inequalities at an   isolated singularity
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - igor e  verbitsky
-PY  - 2014
-TI  - pointwise bounds and blow up for systems of semilinear elliptic   inequalities at an isolated singularity via nonlinear potential estimates
 KW  - Analysis of PDEs
 ER  - 
 
@@ -4337,7 +4163,7 @@ AU  - guoliang yu
 PY  - 2011
 TI  - the novikov conjecture for algebraic k theory of the group algebra over   the ring of schatten class operators
 KW  - K-Theory and Homology
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Group Theory
 KW  - Geometric Topology
 KW  - Operator Algebras
@@ -4464,12 +4290,6 @@ TI  - stability of exact solutions of a nonlocal and nonlinear schrodinger   equ
 ER  - 
 
 TY  - JOUR
-AU  - avadh saxena
-PY  - 2017
-TI  - stability of new exact solutions of the nonlinear schrodinger equation   in a poschl teller external potential
-ER  - 
-
-TY  - JOUR
 AU  - john f  dawson
 PY  - 2018
 TI  - exact solutions of a generalized variant of the derivative nonlinear   schrodinger equation in a scarff ii external potential and their stability   properties
@@ -4495,13 +4315,6 @@ AU  - ricardo h  nochetto
 PY  - 2015
 TI  - high order afem for the laplace beltrami operator  convergence rates
 KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - edriss s  titi
-PY  - 2016
-TI  - recent advances concerning certain class of geophysical flows
-KW  - Analysis of PDEs
 ER  - 
 
 TY  - JOUR
@@ -4577,13 +4390,6 @@ PY  - 2015
 TI  - weak containment rigidity for distal actions
 KW  - Dynamical Systems
 KW  - Operator Algebras
-ER  - 
-
-TY  - JOUR
-AU  - francky luddens
-PY  - 2014
-TI  - an interior penalty method with  c 0  finite elements for the   approximation of the maxwell equations in heterogeneous media  convergence   analysis with minimal regularity
-KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
@@ -4704,31 +4510,10 @@ TI  - simulating thermal boundary conditions of spin lattice models with   weigh
 ER  - 
 
 TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2015
-TI  - pointwise bounds and blow up for systems of semilinear parabolic   inequalities and nonlinear heat potential estimates
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2015
-TI  - pointwise bounds and blow up for choquard pekar inequalities at an   isolated singularity
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - igor e  verbitsky
-PY  - 2014
-TI  - pointwise bounds and blow up for systems of semilinear elliptic   inequalities at an isolated singularity via nonlinear potential estimates
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
 AU  - pavlos motakis
 PY  - 2014
 TI  - arbitrarily distortable banach spaces of higher order
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -4758,14 +4543,7 @@ AU  - dmitriy zanin
 PY  - 2015
 TI  - algebras of log integrable functions and operators
 KW  - Operator Algebras
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - wing tat leung
-PY  - 2015
-TI  - multiscale stabilization for convection dominated diffusion in   heterogeneous media
-KW  - Numerical Analysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -4802,7 +4580,7 @@ AU  - mikael de la salle
 PY  - 2013
 TI  - extensions of amenable groups by recurrent groupoids
 KW  - Group Theory
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Probability
 ER  - 
 
@@ -4828,7 +4606,7 @@ TI  - an analytic grothendieck riemann roch theorem
 KW  - Operator Algebras
 KW  - Complex Variables
 KW  - Differential Geometry
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -4841,7 +4619,7 @@ TY  - JOUR
 AU  - gideon schechtman
 PY  - 2015
 TI  - closed ideals of operators on and complemented subspaces of banach   spaces of functions with countable support
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -4879,7 +4657,7 @@ TY  - JOUR
 AU  - thomas schlumprecht
 PY  - 2016
 TI  - on the boundedness of threshold operators in  l 1 01   with respect to   the haar basis
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -4942,7 +4720,7 @@ PY  - 2014
 TI  - the morse and maslov indices for multidimensional schrodinger   operators with matrix valued potentials
 KW  - Spectral Theory
 KW  - Analysis of PDEs
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Symplectic Geometry
 ER  - 
 
@@ -5001,24 +4779,6 @@ KW  - Classical Analysis and ODEs
 ER  - 
 
 TY  - JOUR
-AU  - maria vasilyeva
-PY  - 2015
-TI  - a generalized multiscale finite element method for poroelasticity   problems i  linear problems
-KW  - Numerical Analysis
-KW  - Computational Engineering, Finance, and Science
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - maria vasilyeva
-PY  - 2015
-TI  - a generalized multiscale finite element method for poroelasticity   problems ii  nonlinear coupling
-KW  - Numerical Analysis
-KW  - Computational Engineering, Finance, and Science
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - sarah witherspoon
 PY  - 2011
 TI  - hochschild cohomology and quantum drinfeld hecke algebras
@@ -5030,7 +4790,7 @@ TY  - JOUR
 AU  - florent p  baudier
 PY  - 2012
 TI  - quantitative nonlinear embeddings into lebesgue sequence spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
 ER  - 
 
@@ -5061,7 +4821,7 @@ AU  - paul skoufranis
 PY  - 2015
 TI  - closed convex hulls of unitary orbits in c     algebras of real rank   zero
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5069,7 +4829,7 @@ AU  - paul skoufranis
 PY  - 2016
 TI  - closed convex hulls of unitary orbits in certain simple real rank zero   c     algebras
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5106,21 +4866,21 @@ TY  - JOUR
 AU  - christos saroglou
 PY  - 2014
 TI  - more on logarithmic sums of convex bodies
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - pavlos motakis
 PY  - 2015
 TI  - on the structure of separable   mathcal l   infty  spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - pavlos motakis
 PY  - 2019
 TI  - on the complete separation of asymptotic structures in banach spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5290,13 +5050,6 @@ KW  - Analysis of PDEs
 ER  - 
 
 TY  - JOUR
-AU  - alan demlow
-PY  - 2016
-TI  - convergence and quasi optimality of adaptive finite element methods for   harmonic forms
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - dimitri v  nanopoulos
 PY  - 2015
 TI  - helical phase inflation via non geometric flux compactifications  from   natural to starobinsky like inflation
@@ -5306,7 +5059,7 @@ TY  - JOUR
 AU  - pavlos motakis
 PY  - 2015
 TI  - a dual method of constructing hereditarily indecomposable banach spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5314,7 +5067,7 @@ AU  - gilles pisier
 PY  - 2008
 TI  - remarks on the non commutative khintchine inequalities for  0 p 2 
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5322,7 +5075,7 @@ AU  - eric ricard
 PY  - 2014
 TI  - the non commutative khintchine inequalities for p 1
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5380,7 +5133,7 @@ TY  - JOUR
 AU  - christos saroglou
 PY  - 2013
 TI  - on the equivalence between two problems of asymmetry on convex bodies
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5393,13 +5146,6 @@ TY  - JOUR
 AU  - zhi zhou
 PY  - 2014
 TI  - a finite element method with singularity reconstruction for fractional   boundary value problems
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - zhi zhou
-PY  - 2015
-TI  - a simple finite element method for the boundary value problem with a   riemann liouville derivative
 KW  - Numerical Analysis
 ER  - 
 
@@ -5503,7 +5249,7 @@ AU  - paul skoufranis
 PY  - 2015
 TI  - the schur horn problem for normal operators
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5511,7 +5257,7 @@ AU  - gilles lancien
 PY  - 2015
 TI  - tight embeddability of proper and stable metric spaces
 KW  - Metric Geometry
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5532,14 +5278,7 @@ TY  - JOUR
 AU  - andras zsak
 PY  - 2014
 TI  - the algebra of bounded linear operators on   ell p oplus ell q  has   infinitely many closed ideals
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - alexander stolyar
-PY  - 2015
-TI  - maxweight scheduling  asymptotic behavior of unscaled   queue differentials in heavy traffic
-KW  - Probability
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5658,26 +5397,6 @@ KW  - Analysis of PDEs
 ER  - 
 
 TY  - JOUR
-AU  - e  s  titi
-PY  - 2006
-TI  - global well posedness of the three dimensional viscous and inviscid   simplified bardina turbulence models
-ER  - 
-
-TY  - JOUR
-AU  - edriss s  titi
-PY  - 2010
-TI  - global well posedness of the 3d primitive equations with partial   vertical turbulence mixing heat diffusion
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - edriss s  titi
-PY  - 2014
-TI  - global well posedness of the 3d primitive equations with only horizontal   viscosity and diffusion
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
 AU  - d  l  wiltshire
 PY  - 1992
 TI  - black holes in higher derivative gravity theories
@@ -5704,7 +5423,7 @@ TY  - JOUR
 AU  - sam l  scholze
 PY  - 2014
 TI  - signal reconstruction from frame and sampling erasures
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5741,28 +5460,6 @@ AU  - detchat samart
 PY  - 2013
 TI  - mahler measures as linear combinations of  l  values of multiple modular   forms
 KW  - Number Theory
-ER  - 
-
-TY  - JOUR
-AU  - edriss s  titi
-PY  - 2019
-TI  - a determining form for the 2d rayleigh benard problem
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - edriss s  titi
-PY  - 2017
-TI  - a determining form for the subcritical surface quasi geostrophic   equation
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - edriss s  titi
-PY  - 2014
-TI  - a determining form for the damped driven nonlinear schrodinger   equation  fourier modes case
-KW  - Analysis of PDEs
-KW  - Dynamical Systems
 ER  - 
 
 TY  - JOUR
@@ -5820,7 +5517,7 @@ AU  - paul skoufranis
 PY  - 2014
 TI  - combinatorics of bi freeness with amalgamation
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -5834,7 +5531,7 @@ TY  - JOUR
 AU  - sheng zhang
 PY  - 2014
 TI  - coarse quotient mappings between metric spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
 ER  - 
 
@@ -5876,22 +5573,6 @@ KW  - Applications
 ER  - 
 
 TY  - JOUR
-AU  - sara pollock
-PY  - 2011
-TI  - convergence of goal oriented adaptive finite element methods for   nonsymmetric problems
-KW  - Numerical Analysis
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - yunrong zhu
-PY  - 2012
-TI  - convergence of goal oriented adaptive finite element methods for   semilinear problems
-KW  - Numerical Analysis
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
 AU  - aibin zang
 PY  - 2014
 TI  - convergence of the 2d euler  a  to euler equations in the dirichlet   case  indifference to boundary layers
@@ -5910,7 +5591,7 @@ AU  - john d  williams
 PY  - 2013
 TI  - analytic function theory for operator valued free probability
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Probability
 ER  - 
 
@@ -5949,14 +5630,6 @@ TI  - braneworld localisation in hyperbolic spacetime
 ER  - 
 
 TY  - JOUR
-AU  - zhenghan wang
-PY  - 2014
-TI  - on the classification of weakly integral modular categories
-KW  - Quantam Algebra
-KW  - Category Theory
-ER  - 
-
-TY  - JOUR
 AU  - eric  c  rowell
 PY  - 2013
 TI  - classification of integral modular categories of frobenius perron   dimension pq 4 and p 2q 2
@@ -5975,7 +5648,7 @@ TY  - JOUR
 AU  - a  zsak
 PY  - 2014
 TI  - renorming spaces with greedy bases
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -6026,7 +5699,7 @@ TY  - JOUR
 AU  - ping zhong
 PY  - 2013
 TI  - local limit theorems for multiplicative free convolutions
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Probability
 ER  - 
 
@@ -6035,28 +5708,6 @@ AU  - bingsheng zhang
 PY  - 2013
 TI  - on whether zero is in the global attractor of the 2d navier stokes   equations
 KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - thomas y  hou
-PY  - 2016
-TI  - adaptive multiscale model reduction with generalized multiscale finite   element methods
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - shubin fu
-PY  - 2014
-TI  - generalized multiscale finite element method for elasticity equations
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - michael presho
-PY  - 2020
-TI  - online conservative generalized multiscale finite element method for   flow models
-KW  - Numerical Analysis
-KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
@@ -6072,7 +5723,7 @@ TY  - JOUR
 AU  - a  zsak
 PY  - 2012
 TI  - unconditional structures of translates for  l p r d  
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -6138,24 +5789,6 @@ ER  -
 TY  - JOUR
 AU  - guoliang yu
 PY  - 2013
-TI  - higher rho invariants and the moduli space of positive scalar curvature   metrics
-KW  - Operator Algebras
-KW  - Differential Geometry
-KW  - Group Theory
-KW  - K-Theory and Homology
-ER  - 
-
-TY  - JOUR
-AU  - rudolf zeidler
-PY  - 2017
-TI  - on the range of the relative higher index and the higher rho invariant   for positive scalar curvature
-KW  - K-Theory and Homology
-KW  - Differential Geometry
-ER  - 
-
-TY  - JOUR
-AU  - guoliang yu
-PY  - 2013
 TI  - geometric property  t 
 KW  - Metric Geometry
 KW  - Group Theory
@@ -6166,7 +5799,7 @@ TY  - JOUR
 AU  - christos saroglou
 PY  - 2013
 TI  - remarks on the conjectured log brunn minkowski inequality
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -6194,18 +5827,10 @@ KW  - Representation Theory
 ER  - 
 
 TY  - JOUR
-AU  - s  witherspoon
-PY  - 2018
-TI  - color lie rings and pbw deformations of skew group algebras
-KW  - Rings and Algebras
-KW  - Representation Theory
-ER  - 
-
-TY  - JOUR
 AU  - ronald g  douglas
 PY  - 2012
 TI  - connections of the corona problem with operator theory and complex   geometry
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Complex Variables
 ER  - 
 
@@ -6283,14 +5908,14 @@ TY  - JOUR
 AU  - gadadhar misra
 PY  - 2014
 TI  - flag structure for operators in the cowen douglas class
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - rui liu
 PY  - 2014
 TI  - dilations for systems of imprimitivity acting on banach spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -6313,7 +5938,7 @@ TY  - JOUR
 AU  - gilles pisier
 PY  - 2013
 TI  - on the metric entropy of the banach mazur compactum
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -6394,17 +6019,10 @@ KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
-AU  - thomas y  hou
-PY  - 2016
-TI  - adaptive multiscale model reduction with generalized multiscale finite   element methods
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - dinesh kumar keshari
 PY  - 2013
 TI  - trace formulae for curvature of jet bundles over planar domain
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -6430,7 +6048,7 @@ TY  - JOUR
 AU  - jaydeb sarkar
 PY  - 2010
 TI  - curvature invariant and generalized canonical operator models   i
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Complex Variables
 KW  - Operator Algebras
 ER  - 
@@ -6439,7 +6057,7 @@ TY  - JOUR
 AU  - jaydeb sarkar
 PY  - 2012
 TI  - curvature invariant and generalized canonical operator models   ii
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -6474,31 +6092,6 @@ TI  - a relative higher index theorem diffeomorphisms and positive scalar   curv
 KW  - K-Theory and Homology
 KW  - Differential Geometry
 KW  - Operator Algebras
-ER  - 
-
-TY  - JOUR
-AU  - thomas y  hou
-PY  - 2013
-TI  - generalized multiscale finite element methods  gmsfem 
-KW  - Numerical Analysis
-KW  - Computational Engineering, Finance, and Science
-KW  - Numerical Analysis
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - michael presho
-PY  - 2013
-TI  - generalized multiscale finite element methods  oversampling strategies
-KW  - Analysis of PDEs
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - thomas y  hou
-PY  - 2016
-TI  - adaptive multiscale model reduction with generalized multiscale finite   element methods
-KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
@@ -6542,29 +6135,7 @@ TY  - JOUR
 AU  - franciszek hugon szafraniec
 PY  - 2013
 TI  - framings and dilations
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - rui liu
-PY  - 2011
-TI  - operator valued measures dilations and the theory of frames
-KW  - Operator Algebras
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - rui liu
-PY  - 2014
-TI  - dilations of frames operator valued measures and bounded linear maps
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - francky luddens
-PY  - 2014
-TI  - an interior penalty method with  c 0  finite elements for the   approximation of the maxwell equations in heterogeneous media  convergence   analysis with minimal regularity
-KW  - Numerical Analysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -6601,52 +6172,6 @@ KW  - Mathematical Physics
 ER  - 
 
 TY  - JOUR
-AU  - steven taliaferro
-PY  - 2019
-TI  - pointwise bounds and blow up for systems of nonlinear fractional   parabolic inequalities
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2015
-TI  - pointwise bounds and blow up for nonlinear polyharmonic inequalities
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2019
-TI  - pointwise bounds and blow up for nonlinear fractional parabolic   inequalities
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - thomas y  hou
-PY  - 2013
-TI  - generalized multiscale finite element methods  gmsfem 
-KW  - Numerical Analysis
-KW  - Computational Engineering, Finance, and Science
-KW  - Numerical Analysis
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - michael presho
-PY  - 2013
-TI  - generalized multiscale finite element methods  oversampling strategies
-KW  - Analysis of PDEs
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - thomas y  hou
-PY  - 2016
-TI  - adaptive multiscale model reduction with generalized multiscale finite   element methods
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - piotr fryzlewicz
 PY  - 2014
 TI  - wild binary segmentation for multiple change point detection
@@ -6671,7 +6196,7 @@ TY  - JOUR
 AU  - anna skripka
 PY  - 2012
 TI  - perturbation formulas for traces on normed ideals
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -6680,22 +6205,6 @@ AU  - edriss s  titi
 PY  - 2010
 TI  - global well posedness for the 2d boussinesq system without heat   diffusion and with either anisotropic viscosity or inviscid voigt  a    regularization
 KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - j  kuipers
-PY  - 2013
-TI  - combinatorial theory of the semiclassical evaluation of transport   moments i  equivalence with the random matrix approach
-KW  - Combinatorics
-KW  - Mathematical Physics
-ER  - 
-
-TY  - JOUR
-AU  - j  kuipers
-PY  - 2013
-TI  - combinatorial theory of the semiclassical evaluation of transport   moments ii  algorithmic approach for moment generating functions
-KW  - Combinatorics
-KW  - Mathematical Physics
 ER  - 
 
 TY  - JOUR
@@ -6715,7 +6224,7 @@ TY  - JOUR
 AU  - kai wang
 PY  - 2012
 TI  - some remarks on essentially normal submodules
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -6733,13 +6242,6 @@ KW  - Algebraic Geometry
 ER  - 
 
 TY  - JOUR
-AU  - shubin fu
-PY  - 2014
-TI  - generalized multiscale finite element method for elasticity equations
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - mehdi ghommem
 PY  - 2014
 TI  - multiscale empirical interpolation for solving nonlinear pdes using   generalized multiscale finite element methods
@@ -6750,31 +6252,6 @@ TY  - JOUR
 AU  - guanglian li
 PY  - 2014
 TI  - randomized oversampling for generalized multiscale finite element   methods
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - thomas y  hou
-PY  - 2013
-TI  - generalized multiscale finite element methods  gmsfem 
-KW  - Numerical Analysis
-KW  - Computational Engineering, Finance, and Science
-KW  - Numerical Analysis
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
-AU  - michael presho
-PY  - 2013
-TI  - generalized multiscale finite element methods  oversampling strategies
-KW  - Analysis of PDEs
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - thomas y  hou
-PY  - 2016
-TI  - adaptive multiscale model reduction with generalized multiscale finite   element methods
 KW  - Numerical Analysis
 ER  - 
 
@@ -6858,7 +6335,7 @@ TY  - JOUR
 AU  - m  zymonopoulou
 PY  - 2012
 TI  - complex intersection bodies
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -6873,15 +6350,6 @@ AU  - valen e  johnson
 PY  - 2013
 TI  - uniformly most powerful bayesian tests
 KW  - Statistics Theory
-KW  - Statistics Theory
-ER  - 
-
-TY  - JOUR
-AU  - valen e  johnson
-PY  - 2018
-TI  - on the existence of uniformly most powerful bayesian tests with   application to non central chi squared tests
-KW  - Statistics Theory
-KW  - Applications
 KW  - Statistics Theory
 ER  - 
 
@@ -7054,16 +6522,7 @@ TY  - JOUR
 AU  - przemyslaw wojtaszczyk
 PY  - 2012
 TI  - greedy algorithms for reduced bases in banach spaces
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - guoliang yu
-PY  - 2011
-TI  - finite decomposition complexity and the integral novikov conjecture for   higher algebraic k theory
-KW  - K-Theory and Homology
-KW  - Algebraic Topology
-KW  - Geometric Topology
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7078,7 +6537,7 @@ AU  - florent baudier
 PY  - 2012
 TI  - embeddability of snowflaked metrics with applications to the nonlinear   geometry of the spaces  l p  and   ell  p   for  0 p  infty 
 KW  - Metric Geometry
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7204,14 +6663,6 @@ KW  - Rings and Algebras
 ER  - 
 
 TY  - JOUR
-AU  - edriss s  titi
-PY  - 2013
-TI  - a unified approach to determining forms for the 2d navier stokes   equations   the general interpolants case
-KW  - Dynamical Systems
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
 AU  - dermot mccarthy
 PY  - 2012
 TI  - transformations of well poised hypergeometric functions over finite   fields
@@ -7274,7 +6725,7 @@ AU  - piotr w  nowak
 PY  - 2010
 TI  - diameters distortion and eigenvalues
 KW  - Group Theory
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
 ER  - 
 
@@ -7315,14 +6766,6 @@ KW  - Number Theory
 ER  - 
 
 TY  - JOUR
-AU  - dmitry panchenko
-PY  - 2012
-TI  - the sherrington kirkpatrick model  an overview
-KW  - Mathematical Physics
-KW  - Probability
-ER  - 
-
-TY  - JOUR
 AU  - f  d  mera
 PY  - 2013
 TI  - comment on  wedges cones cosmic strings and their vacuum energy 
@@ -7340,7 +6783,7 @@ TY  - JOUR
 AU  - kai wang
 PY  - 2011
 TI  - reducing subspaces for analytic multipliers of the bergman space
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Complex Variables
 ER  - 
 
@@ -7355,7 +6798,7 @@ TY  - JOUR
 AU  - thomas schlumprecht
 PY  - 2011
 TI  - subsequential minimality in gowers and maurey spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7431,23 +6874,6 @@ TY  - JOUR
 AU  - c  n  pope
 PY  - 2010
 TI  - inconsistency of breathing mode extensions of maximal five dimensional   supergravity embedding
-ER  - 
-
-TY  - JOUR
-AU  - jaydeb sarkar
-PY  - 2010
-TI  - curvature invariant and generalized canonical operator models   i
-KW  - Functional Mnalysis
-KW  - Complex Variables
-KW  - Operator Algebras
-ER  - 
-
-TY  - JOUR
-AU  - jaydeb sarkar
-PY  - 2012
-TI  - curvature invariant and generalized canonical operator models   ii
-KW  - Functional Mnalysis
-KW  - Operator Algebras
 ER  - 
 
 TY  - JOUR
@@ -7545,7 +6971,7 @@ TY  - JOUR
 AU  - andras zsak
 PY  - 2010
 TI  - dichotomy theorems for random matrices and closed ideals of operators on     big  bigoplus  n 1   infty ell 1 n  big    mathrm c  0  
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7557,17 +6983,10 @@ KW  - Analysis of PDEs
 ER  - 
 
 TY  - JOUR
-AU  - yunus e  zeytuncu
-PY  - 2013
-TI  - sobolev estimates for the complex green operator on cr submanifolds of   hypersurface type
-KW  - Complex Variables
-ER  - 
-
-TY  - JOUR
 AU  - jaydeb sarkar
 PY  - 2010
 TI  - contractions with polynomial characteristic functions i  geometric   approach
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -7575,7 +6994,7 @@ TY  - JOUR
 AU  - jaydeb sarkar
 PY  - 2016
 TI  - contractions with polynomial characteristic functions ii  analytic   approach
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -7613,7 +7032,7 @@ TY  - JOUR
 AU  - beatrice helen vritsiou
 PY  - 2011
 TI  - a remark on the slicing problem
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
 ER  - 
 
@@ -7673,7 +7092,7 @@ TY  - JOUR
 AU  - ciprian foias
 PY  - 2010
 TI  - canonical models for bi isometries
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7686,7 +7105,7 @@ TY  - JOUR
 AU  - jaydeb sarkar
 PY  - 2009
 TI  - contractive hilbert modules and their dilations
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Complex Variables
 KW  - Operator Algebras
 ER  - 
@@ -7731,7 +7150,7 @@ TY  - JOUR
 AU  - kai wang
 PY  - 2011
 TI  - a harmonic analysis approach to essential normality of principal   submodules
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -7739,7 +7158,7 @@ TY  - JOUR
 AU  - piotr w  nowak
 PY  - 2011
 TI  - every finitely generated group is weakly exact
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Group Theory
 KW  - Operator Algebras
 ER  - 
@@ -7764,7 +7183,7 @@ TY  - JOUR
 AU  - gilles pisier
 PY  - 2011
 TI  - real interpolation and transposition of certain function spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7778,7 +7197,7 @@ TY  - JOUR
 AU  - m  zymonopoulou
 PY  - 2011
 TI  - isomorphic properties of intersection bodies
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7805,7 +7224,7 @@ TY  - JOUR
 AU  - bentuo zheng
 PY  - 2007
 TI  - a characterization of subspaces and quotients of reflexive banach spaces   with unconditional bases
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7825,7 +7244,7 @@ TY  - JOUR
 AU  - elisabeth m  werner
 PY  - 2009
 TI  - relative entropy of cone measures and  l p  centroid bodies
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7903,7 +7322,7 @@ TY  - JOUR
 AU  - b  zheng
 PY  - 2009
 TI  - systems formed by translates of one element in  l p  mathbb r  
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -7960,13 +7379,6 @@ KW  - Dynamical Systems
 ER  - 
 
 TY  - JOUR
-AU  - v  thomee
-PY  - 2012
-TI  - some error estimates for the finite volume element method for a   parabolic problem
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - dan xie
 PY  - 2010
 TI  - more three dimensional mirror pairs
@@ -8011,7 +7423,7 @@ TY  - JOUR
 AU  - yun su kim
 PY  - 2009
 TI  - reducing subspaces on the annulus
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8046,16 +7458,7 @@ TY  - JOUR
 AU  - piotr w  nowak
 PY  - 2010
 TI  - invariant expectations and vanishing of bounded cohomology for exact   groups
-KW  - Functional Mnalysis
-KW  - Group Theory
-KW  - Operator Algebras
-ER  - 
-
-TY  - JOUR
-AU  - piotr w  nowak
-PY  - 2010
-TI  - invariant expectations and vanishing of bounded cohomology for exact   groups
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Group Theory
 KW  - Operator Algebras
 ER  - 
@@ -8119,7 +7522,7 @@ AU  - nikolay a  ivanov
 PY  - 2007
 TI  - on the structure of some reduced amalgamated free product c  algebras
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8131,38 +7534,17 @@ KW  - Dynamical Systems
 ER  - 
 
 TY  - JOUR
-AU  - shubin fu
-PY  - 2014
-TI  - generalized multiscale finite element method for elasticity equations
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - mehdi ghommem
-PY  - 2014
-TI  - multiscale empirical interpolation for solving nonlinear pdes using   generalized multiscale finite element methods
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - guanglian li
-PY  - 2014
-TI  - randomized oversampling for generalized multiscale finite element   methods
-KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
 AU  - dechao zheng
 PY  - 2009
 TI  - multiplication operators on the bergman space via analytic continuation
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - anjian xu
 PY  - 2014
 TI  - generalized bundle shift with application to multiplication operator on   the bergman space
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8236,7 +7618,7 @@ TY  - JOUR
 AU  - jaydeb sarkar
 PY  - 2009
 TI  - resolutions of hilbert modules and similarity
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Complex Variables
 KW  - Operator Algebras
 ER  - 
@@ -8396,7 +7778,7 @@ AU  - n  sivakumar
 PY  - 2009
 TI  - nonuniform sampling and recovery of multidimensional bandlimited   functions by gaussian radial basis functions
 KW  - Classical Analysis and ODEs
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8426,7 +7808,7 @@ AU  - amos ron
 PY  - 2008
 TI  - approximation using scattered shifts of a multivariate function
 KW  - Classical Analysis and ODEs
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8440,7 +7822,7 @@ TY  - JOUR
 AU  - th  schlumprecht
 PY  - 2009
 TI  - greedy bases for besov spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8448,14 +7830,6 @@ AU  - benjamin aaron bailey
 PY  - 2010
 TI  - sampling and recovery of multidimensional bandlimited functions via   frames
 KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - n  sivakumar
-PY  - 2009
-TI  - nonuniform sampling and recovery of multidimensional bandlimited   functions by gaussian radial basis functions
-KW  - Classical Analysis and ODEs
-KW  - Functional Mnalysis
 ER  - 
 
 TY  - JOUR
@@ -8502,7 +7876,7 @@ TY  - JOUR
 AU  - c  pearcy
 PY  - 2009
 TI  - confluent operator algebras and the closability property
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -8534,7 +7908,7 @@ TY  - JOUR
 AU  - rui liu
 PY  - 2009
 TI  - on shrinking and boundedly complete schauder frames of banach spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8582,7 +7956,7 @@ TY  - JOUR
 AU  - bentuo zheng
 PY  - 2010
 TI  - a characterization of schauder frames which are near schauder bases
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8650,14 +8024,14 @@ TY  - JOUR
 AU  - a  zsak
 PY  - 2009
 TI  - on the convergence of greedy algorithms for initial segments of the haar   basis
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - denka kutzarova
 PY  - 2012
 TI  - on the convergence of a weak greedy algorithm for the multivariate haar   basis
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Classical Analysis and ODEs
 ER  - 
 
@@ -8730,7 +8104,7 @@ AU  - jaydeb sarkar
 PY  - 2009
 TI  - a note on semi fredholm hilbert modules
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8891,14 +8265,7 @@ TY  - JOUR
 AU  - david larson
 PY  - 2009
 TI  - a duality principle for groups
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - franz luef
-PY  - 2018
-TI  - a duality principle for groups ii  multi frames meet super frames
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8920,7 +8287,7 @@ TY  - JOUR
 AU  - shuang zhang
 PY  - 2007
 TI  - operator valued frames
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -8929,7 +8296,7 @@ AU  - shuang zhang
 PY  - 2007
 TI  - operator valued frames on c  modules
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8974,7 +8341,7 @@ AU  - n  sivakumar
 PY  - 2008
 TI  - on the sampling and recovery of bandlimited functions via scattered   translates of the gaussian
 KW  - Classical Analysis and ODEs
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -8987,40 +8354,16 @@ ER  -
 
 TY  - JOUR
 AU  - andrew komech
-PY  - 2006
-TI  - on global attraction to solitary waves for the klein gordon equation   coupled to nonlinear oscillator
-KW  - Analysis of PDEs
-KW  - Dynamical Systems
-ER  - 
-
-TY  - JOUR
-AU  - andrew komech
-PY  - 2007
-TI  - on global attraction to solitary waves for the klein gordon field   coupled to several nonlinear oscillators
-KW  - Analysis of PDEs
-KW  - Dynamical Systems
-ER  - 
-
-TY  - JOUR
-AU  - andrew komech
 PY  - 2007
 TI  - global attraction to solitary waves for klein gordon equation with mean   field interaction
 KW  - Mathematical Physics
 ER  - 
 
 TY  - JOUR
-AU  - gilles pisier
-PY  - 2008
-TI  - remarks on the non commutative khintchine inequalities for  0 p 2 
-KW  - Operator Algebras
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
 AU  - gideon schechtman
 PY  - 2011
 TI  - commutators on  l p   1 le p  infty 
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -9033,7 +8376,7 @@ TY  - JOUR
 AU  - assaf naor
 PY  - 2008
 TI  - the johnson lindenstrauss lemma almost characterizes hilbert space but   not quite
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Computational Geometry
 KW  - Metric Geometry
 ER  - 
@@ -9062,7 +8405,7 @@ TY  - JOUR
 AU  - pandelis dodos
 PY  - 2010
 TI  - the steinhaus property and haar null sets
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -9083,7 +8426,7 @@ AU  - hanfeng li
 PY  - 2007
 TI  - combinatorial independence in measurable dynamics
 KW  - Dynamical Systems
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -9116,13 +8459,6 @@ KW  - Mathematical Physics
 ER  - 
 
 TY  - JOUR
-AU  - steven taliaferro
-PY  - 2009
-TI  - initial blow up of solutions of semilinear parabolic inequalities
-KW  - Analysis of PDEs
-ER  - 
-
-TY  - JOUR
 AU  - alexander k  hartmann
 PY  - 2008
 TI  - ultrametricity and clustering of states in spin glasses  a   one dimensional view
@@ -9132,7 +8468,7 @@ TY  - JOUR
 AU  - gestur olafsson
 PY  - 2007
 TI  - three way tiling sets in two dimensions
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -9166,7 +8502,7 @@ AU  - c  foias
 PY  - 2008
 TI  - bi isometries and commutant lifting
 KW  - Spectral Theory
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -9187,7 +8523,7 @@ TY  - JOUR
 AU  - andras zsak
 PY  - 2007
 TI  - coefficient quantization for frames in banach spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
 ER  - 
 
@@ -9346,7 +8682,7 @@ AU  - gabriel h  tucci
 PY  - 2007
 TI  - some quasinilpotent generators of the hyperfinite   mathrm ii  1  factor
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -9355,14 +8691,6 @@ PY  - 2006
 TI  - varieties for modules of quantum elementary abelian groups
 KW  - Quantam Algebra
 KW  - Representation Theory
-ER  - 
-
-TY  - JOUR
-AU  - sarah witherspoon
-PY  - 2013
-TI  - tensor ideals and varieties for modules of quantum elementary abelian   groups
-KW  - Representation Theory
-KW  - Quantam Algebra
 ER  - 
 
 TY  - JOUR
@@ -9446,13 +8774,6 @@ KW  - Operator Algebras
 ER  - 
 
 TY  - JOUR
-AU  - bentuo zheng
-PY  - 2007
-TI  - a characterization of subspaces and quotients of reflexive banach spaces   with unconditional bases
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
 AU  - emil j  straube
 PY  - 2005
 TI  - a sufficient condition for global regularity of the d bar neumann   operator
@@ -9508,12 +8829,6 @@ PY  - 2008
 TI  - an algorithm for finding symmetric grobner bases in infinite   dimensional rings
 KW  - Commutative Algebra
 KW  - Combinatorics
-ER  - 
-
-TY  - JOUR
-AU  - alexandra badea
-PY  - 2017
-TI  - small animal multivariate brain analysis  samba   a high throughput   pipeline with a validation framework
 ER  - 
 
 TY  - JOUR
@@ -9631,7 +8946,7 @@ TY  - JOUR
 AU  - gadadhar misra
 PY  - 2003
 TI  - equivalence of quotient hilbert modules
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -9639,7 +8954,7 @@ TY  - JOUR
 AU  - gadadhar misra
 PY  - 2005
 TI  - equivalence of quotient hilbert modules    ii
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Complex Variables
 KW  - Spectral Theory
 ER  - 
@@ -9696,15 +9011,7 @@ TY  - JOUR
 AU  - andras zsak
 PY  - 2006
 TI  - coefficient quantization in banach spaces
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - andras zsak
-PY  - 2007
-TI  - coefficient quantization for frames in banach spaces
-KW  - Functional Mnalysis
-KW  - Metric Geometry
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -9943,21 +9250,21 @@ AU  - gilles pisier
 PY  - 2005
 TI  - simultaneous similarity bounded generation and amenability
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - david r  larson
 PY  - 2006
 TI  - unitary systems and wavelet sets
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - david r  larson
 PY  - 2006
 TI  - unitary systems wavelet sets and operator theoretic interpolation of   wavelets and frames
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -10164,34 +9471,10 @@ KW  - Information Theory
 ER  - 
 
 TY  - JOUR
-AU  - andrew komech
-PY  - 2006
-TI  - on global attraction to solitary waves for the klein gordon equation   coupled to nonlinear oscillator
-KW  - Analysis of PDEs
-KW  - Dynamical Systems
-ER  - 
-
-TY  - JOUR
-AU  - andrew komech
-PY  - 2007
-TI  - on global attraction to solitary waves for the klein gordon field   coupled to several nonlinear oscillators
-KW  - Analysis of PDEs
-KW  - Dynamical Systems
-ER  - 
-
-TY  - JOUR
-AU  - andrew komech
-PY  - 2007
-TI  - global attraction to solitary waves in models based on the klein gordon   equation
-KW  - Analysis of PDEs
-KW  - Mathematical Physics
-ER  - 
-
-TY  - JOUR
 AU  - th  schlumprecht
 PY  - 2005
 TI  - a universal reflexive space for the class of uniformly convex banach   spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -10324,7 +9607,7 @@ TY  - JOUR
 AU  - keith taylor
 PY  - 2006
 TI  - explicit cross sections of singly generated group actions
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -10389,68 +9672,8 @@ TY  - JOUR
 AU  - n  l  randrianarivony
 PY  - 2004
 TI  - characterization of quasi banach spaces which coarsely embed into a   hilbert space
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Metric Geometry
-ER  - 
-
-TY  - JOUR
-AU  - c  h  yan
-PY  - 2000
-TI  - apollonian circle packings  geometry and group theory ii    super apollonian group and integral packings
-KW  - Metric Geometry
-KW  - Group Theory
-KW  - Number Theory
-ER  - 
-
-TY  - JOUR
-AU  - c  h  yan
-PY  - 2000
-TI  - apollonian circle packings  geometry and group theory iii  higher   dimensions
-KW  - Metric Geometry
-KW  - Group Theory
-KW  - Number Theory
-ER  - 
-
-TY  - JOUR
-AU  - c  h  yan
-PY  - 2000
-TI  - apollonian circle packings  geometry and group theory i  the apollonian   group
-KW  - Metric Geometry
-KW  - Group Theory
-KW  - Number Theory
-ER  - 
-
-TY  - JOUR
-AU  - c  h  yan
-PY  - 2000
-TI  - apollonian circle packings  geometry and group theory ii    super apollonian group and integral packings
-KW  - Metric Geometry
-KW  - Group Theory
-KW  - Number Theory
-ER  - 
-
-TY  - JOUR
-AU  - c  h  yan
-PY  - 2000
-TI  - apollonian circle packings  geometry and group theory iii  higher   dimensions
-KW  - Metric Geometry
-KW  - Group Theory
-KW  - Number Theory
-ER  - 
-
-TY  - JOUR
-AU  - c  h  yan
-PY  - 2000
-TI  - apollonian circle packings  geometry and group theory i  the apollonian   group
-KW  - Metric Geometry
-KW  - Group Theory
-KW  - Number Theory
-ER  - 
-
-TY  - JOUR
-AU  - c  n  pope
-PY  - 2004
-TI  - non extremal charged rotating black holes in seven dimensional gauged   supergravity
 ER  - 
 
 TY  - JOUR
@@ -10486,13 +9709,6 @@ PY  - 2004
 TI  - the border rank of the multiplication of two by two matrices is seven
 KW  - Algebraic Geometry
 KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - zach teitler
-PY  - 2009
-TI  - on the ranks and border ranks of symmetric tensors
-KW  - Algebraic Geometry
 ER  - 
 
 TY  - JOUR
@@ -10538,7 +9754,7 @@ TY  - JOUR
 AU  - n  tomczak jaegermann
 PY  - 2003
 TI  - on the structure of the spreading models of a banach space
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -10573,7 +9789,7 @@ TY  - JOUR
 AU  - hanfeng li
 PY  - 2004
 TI  - dynamical entropy in banach spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Dynamical Systems
 KW  - Operator Algebras
 ER  - 
@@ -10582,19 +9798,6 @@ TY  - JOUR
 AU  - c  n  pope
 PY  - 2004
 TI  - charged rotating black holes in four dimensional gauged and ungauged   supergravities
-ER  - 
-
-TY  - JOUR
-AU  - c  n  pope
-PY  - 2004
-TI  - non extremal charged rotating black holes in seven dimensional gauged   supergravity
-ER  - 
-
-TY  - JOUR
-AU  - v  thomee
-PY  - 2012
-TI  - some error estimates for the finite volume element method for a   parabolic problem
-KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
@@ -10627,24 +9830,6 @@ TY  - JOUR
 AU  - c  n  pope
 PY  - 2004
 TI  - bps geometries and ads bubbles
-ER  - 
-
-TY  - JOUR
-AU  - jiangping hu
-PY  - 2011
-TI  - collinear to anti collinear quantum phase transition by vacancies
-ER  - 
-
-TY  - JOUR
-AU  - li qian
-PY  - 2019
-TI  - recovering the full dimensionality of hyperentanglement in collinear   photon pairs
-ER  - 
-
-TY  - JOUR
-AU  - yu jiao zhu
-PY  - 2020
-TI  - analytic continuation and reciprocity relation for collinear splitting   in qcd
 ER  - 
 
 TY  - JOUR
@@ -10743,14 +9928,6 @@ KW  - Representation Theory
 ER  - 
 
 TY  - JOUR
-AU  - catherine yan
-PY  - 2005
-TI  - random geometric graph diameter in the unit ball
-KW  - Combinatorics
-KW  - Probability
-ER  - 
-
-TY  - JOUR
 AU  - c  n  pope
 PY  - 2004
 TI  - rotating black holes in higher dimensions with a cosmological constant
@@ -10780,22 +9957,6 @@ AU  - quoc thong le gia
 PY  - 2012
 TI  - multiscale methods with compactly supported radial basis functions for   galerkin approximation of elliptic pdes
 KW  - Numerical Analysis
-ER  - 
-
-TY  - JOUR
-AU  - frank sottile
-PY  - 2004
-TI  - lower bounds for real solutions to sparse polynomial systems
-KW  - Algebraic Geometry
-KW  - Combinatorics
-ER  - 
-
-TY  - JOUR
-AU  - frank sottile
-PY  - 2004
-TI  - cremona convexity frame convexity and a theorem of santalo
-KW  - Metric Geometry
-KW  - Algebraic Geometry
 ER  - 
 
 TY  - JOUR
@@ -10848,7 +10009,7 @@ TY  - JOUR
 AU  - nico spronk
 PY  - 2002
 TI  - measurable schur multipliers and completely bounded multipliers of the   fourier algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -10856,7 +10017,7 @@ TY  - JOUR
 AU  - eric weber
 PY  - 2003
 TI  - geometric aspects of frame representations of abelian groups
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -10864,7 +10025,7 @@ AU  - gilles pisier
 PY  - 2002
 TI  - the operator hilbert space oh and type iii von neumann algebras
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -10920,7 +10081,7 @@ TY  - JOUR
 AU  - nico spronk
 PY  - 2002
 TI  - operator biflatness of the fourier algebra and approximate indicators   for subgroups
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - K-Theory and Homology
 KW  - Operator Algebras
 ER  - 
@@ -10930,13 +10091,6 @@ AU  - uffe haagerup
 PY  - 2003
 TI  - invariant subspaces of the quasinilpotent dt operator
 KW  - Operator Algebras
-ER  - 
-
-TY  - JOUR
-AU  - v  thomee
-PY  - 2012
-TI  - some error estimates for the finite volume element method for a   parabolic problem
-KW  - Numerical Analysis
 ER  - 
 
 TY  - JOUR
@@ -10983,7 +10137,7 @@ TY  - JOUR
 AU  - david larson
 PY  - 2003
 TI  - rank one decomposition of operators and construction of frames
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -10996,13 +10150,6 @@ TY  - JOUR
 AU  - michel destrade
 PY  - 2013
 TI  - surface waves in deformed bell materials
-ER  - 
-
-TY  - JOUR
-AU  - eric weber
-PY  - 2003
-TI  - geometric aspects of frame representations of abelian groups
-KW  - Functional Mnalysis
 ER  - 
 
 TY  - JOUR
@@ -11024,23 +10171,6 @@ AU  - leah h  gold
 PY  - 2002
 TI  - a degree bound for codimension two lattice ideals
 KW  - Commutative Algebra
-ER  - 
-
-TY  - JOUR
-AU  - gadadhar misra
-PY  - 2003
-TI  - equivalence of quotient hilbert modules
-KW  - Functional Mnalysis
-KW  - Operator Algebras
-ER  - 
-
-TY  - JOUR
-AU  - gadadhar misra
-PY  - 2005
-TI  - equivalence of quotient hilbert modules    ii
-KW  - Functional Mnalysis
-KW  - Complex Variables
-KW  - Spectral Theory
 ER  - 
 
 TY  - JOUR
@@ -11120,7 +10250,7 @@ TY  - JOUR
 AU  - vladimir g  troitsky
 PY  - 2001
 TI  - on quasi affine transforms of read s operator
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11170,13 +10300,6 @@ TI  - a new fractional d2 brane g 2 holonomy and t duality
 ER  - 
 
 TY  - JOUR
-AU  - ken dykema
-PY  - 2002
-TI  - subfactors of free products of rescalings of a ii 1 factor
-KW  - Operator Algebras
-ER  - 
-
-TY  - JOUR
 AU  - florin radulescu
 PY  - 2001
 TI  - rescalings of free products of ii 1 factors
@@ -11217,7 +10340,7 @@ TY  - JOUR
 AU  - thomas schlumprecht
 PY  - 2000
 TI  - trees and branches in banach spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11266,7 +10389,7 @@ TY  - JOUR
 AU  - ciprian pop
 PY  - 2001
 TI  - finite sums of commutators
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -11374,12 +10497,6 @@ KW  - Operator Algebras
 ER  - 
 
 TY  - JOUR
-AU  - tuan a  tran
-PY  - 2001
-TI  - supergravity duals of gauge field theories from su 2  x u 1  gauged   supergravity in five dimensions
-ER  - 
-
-TY  - JOUR
 AU  - rich stankewitz
 PY  - 2007
 TI  - uniformly perfect analytic and conformal attractor sets
@@ -11414,7 +10531,7 @@ TY  - JOUR
 AU  - w  b  johnson
 PY  - 2000
 TI  - an example of an asymptotically hilbertian space which fails the   approximation property
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11494,23 +10611,11 @@ TI  - super yang mills operators from the d3 brane action in a curved   backgrou
 ER  - 
 
 TY  - JOUR
-AU  - siu a  chin
-PY  - 2000
-TI  - fourth order algorithms for solving the multivariable langevin equation   and the kramers equation
-ER  - 
-
-TY  - JOUR
-AU  - siu a  chin
-PY  - 2000
-TI  - fourth order diffusion monte carlo algorithms for solving quantum   many body problems
-ER  - 
-
-TY  - JOUR
 AU  - david r  larson
 PY  - 2000
 TI  - a module frame concept for hilbert c  modules
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11524,7 +10629,7 @@ AU  - david r  larson
 PY  - 2000
 TI  - modular frames for hilbert c  modules and symmetric approximation of   frames
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11549,14 +10654,14 @@ TY  - JOUR
 AU  - eric weber
 PY  - 1999
 TI  - on the translation invariance of wavelet subspaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - j  wenzel
 PY  - 2002
 TI  - the average distance property of classical banach spaces ii
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11578,7 +10683,7 @@ TY  - JOUR
 AU  - gilles pisier
 PY  - 1997
 TI  - the similarity degree of an operator algebra
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11586,14 +10691,14 @@ AU  - gilles pisier
 PY  - 1999
 TI  - the similarity degree of an operator algebra ii
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - gilles pisier
 PY  - 2000
 TI  - remarks on the similarity degree of an operator algebra
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 KW  - Operator Algebras
 ER  - 
 
@@ -11770,7 +10875,7 @@ TY  - JOUR
 AU  - gilles pisier
 PY  - 1997
 TI  - the   maximal  tensor product of operator spaces
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11851,12 +10956,6 @@ TI  - higher spin n 8 supergravity in ads 4
 ER  - 
 
 TY  - JOUR
-AU  - p  sundell
-PY  - 2001
-TI  - towards massless higher spin extension of d 5 n 8 gauged supergravity
-ER  - 
-
-TY  - JOUR
 AU  - t  a  tran
 PY  - 1998
 TI  - euclidean signature supergravities dualities and instantons
@@ -11872,12 +10971,6 @@ TY  - JOUR
 AU  - e  sezgin
 PY  - 1998
 TI  - anomaly free tensor yang mills system and its dual formulation
-ER  - 
-
-TY  - JOUR
-AU  - c  n  pope
-PY  - 1997
-TI  - gauge dyonic strings and their global limit
 ER  - 
 
 TY  - JOUR
@@ -11910,12 +11003,6 @@ TY  - JOUR
 AU  - c  n  pope
 PY  - 1997
 TI  - dualisation of dualities i
-ER  - 
-
-TY  - JOUR
-AU  - c  n  pope
-PY  - 1998
-TI  - dualisation of dualities ii  twisted self duality of doubled fields and   superdualities
 ER  - 
 
 TY  - JOUR
@@ -11958,21 +11045,21 @@ TY  - JOUR
 AU  - thomas schlumprecht
 PY  - 1996
 TI  - a problem on spreading models
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - thomas schlumprecht
 PY  - 1997
 TI  - on asymptotic properties of banach spaces under renormings
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - william b  johnson
 PY  - 1995
 TI  - universal non completely continuous operators
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -11985,12 +11072,6 @@ TY  - JOUR
 AU  - ergin sezgin
 PY  - 1997
 TI  - new couplings of six dimensional supergravity
-ER  - 
-
-TY  - JOUR
-AU  - c  n  pope
-PY  - 1997
-TI  - supersymmetry without supersymmetry
 ER  - 
 
 TY  - JOUR
@@ -12048,19 +11129,13 @@ TY  - JOUR
 AU  - gilles pisier
 PY  - 1996
 TI  - a polynomially bounded operator on hilbert space which is not similar to   a contraction
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
 AU  - e  sokatchev
 PY  - 1996
 TI  - couplings of self dual tensor multiplet in six dimensions
-ER  - 
-
-TY  - JOUR
-AU  - sudhakar panda
-PY  - 1996
-TI  - rotating dyonic black holes in heterotic string theory
 ER  - 
 
 TY  - JOUR
@@ -12164,16 +11239,10 @@ TI  - higher spin brs cohomology of supersymmetric chiral matter in d 4
 ER  - 
 
 TY  - JOUR
-AU  - joachim rahmfeld
-PY  - 1995
-TI  - supersymmetry and dual string solitons
-ER  - 
-
-TY  - JOUR
 AU  - william b  johnson
 PY  - 1993
 TI  - the complete continuity property and finite dimensional decompositions
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -12200,7 +11269,7 @@ TY  - JOUR
 AU  - gilles pisier
 PY  - 1993
 TI  - bilinear forms on exact operator spaces and b h  otimes b h 
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -12213,13 +11282,6 @@ TY  - JOUR
 AU  - j  c  plefka
 PY  - 1992
 TI  - putting string fivebrane duality to the test
-ER  - 
-
-TY  - JOUR
-AU  - gilles pisier
-PY  - 1993
-TI  - bilinear forms on exact operator spaces and b h  otimes b h 
-KW  - Functional Mnalysis
 ER  - 
 
 TY  - JOUR
@@ -12265,27 +11327,9 @@ TI  - the complete cohomology of the w3 string
 ER  - 
 
 TY  - JOUR
-AU  - joachim rahmfeld
-PY  - 1993
-TI  - new black hole string and membrane solutions of the four dimensional   heterotic string
-ER  - 
-
-TY  - JOUR
 AU  - k  s  stelle
 PY  - 1994
 TI  - the multivalued free field maps of liouville and toda gravities
-ER  - 
-
-TY  - JOUR
-AU  - ramzi r  khuri
-PY  - 1993
-TI  - four dimensional string string duality
-ER  - 
-
-TY  - JOUR
-AU  - ramzi r  khuri
-PY  - 1993
-TI  - four dimensional string string duality
 ER  - 
 
 TY  - JOUR
@@ -12316,13 +11360,6 @@ TY  - JOUR
 AU  - k  yuan
 PY  - 1992
 TI  - the search for a realistic flipped su 5  string model
-ER  - 
-
-TY  - JOUR
-AU  - steven d  taliaferro
-PY  - 2014
-TI  - asymptotic behavior at isolated singularities for solutions of nonlocal   semilinear elliptic systems of inequalities
-KW  - Analysis of PDEs
 ER  - 
 
 TY  - JOUR
@@ -12420,7 +11457,7 @@ AU  - gilles pisier
 PY  - 1991
 TI  - remarks on complemented subspaces of von neumann algebras
 KW  - Operator Algebras
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -12428,7 +11465,7 @@ AU  - keith ball
 PY  - 1990
 TI  - the plank problem for symmetric bodies
 KW  - Metric Geometry
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -12448,31 +11485,7 @@ AU  - keith ball
 PY  - 1989
 TI  - volume ratios and a reverse isoperimetric inequality
 KW  - Metric Geometry
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - keith ball
-PY  - 1989
-TI  - volume ratios and a reverse isoperimetric inequality
-KW  - Metric Geometry
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - keith ball
-PY  - 1989
-TI  - volume ratios and a reverse isoperimetric inequality
-KW  - Metric Geometry
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - keith ball
-PY  - 1989
-TI  - volume ratios and a reverse isoperimetric inequality
-KW  - Metric Geometry
-KW  - Functional Mnalysis
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -12480,19 +11493,7 @@ AU  - aristomenis g  siskakis
 PY  - 2019
 TI  - semigroups of composition operators in analytic morrey spaces
 KW  - Complex Variables
-KW  - Functional Mnalysis
-ER  - 
-
-TY  - JOUR
-AU  - yong zhang
-PY  - 2015
-TI  - accurate and efficient numerical methods for computing ground states and   dynamics of dipolar bose einstein condensates via the nonuniform fft
-ER  - 
-
-TY  - JOUR
-AU  - yanzhi zhang
-PY  - 2013
-TI  - a simple and efficient numerical method for computing the dynamics of   rotating bose einstein condensates via a rotating lagrangian coordinate
+KW  - Functional Analysis
 ER  - 
 
 TY  - JOUR
@@ -12523,4 +11524,14 @@ TY  - JOUR
 AU  - alexandre roman lopes
 PY  - 2020
 TI  - analysis of previously classified white dwarf main sequence binaries   using data from the apogee survey
+ER  - 
+
+TY  - JOUR
+AU  - tekin karadag
+PY  - 2020
+TI  - gerstenhaber bracket on hopf algebra and hochschild cohomologies
+KW  - Quantam Algebra
+KW  - K-Theory and Homology
+KW  - Rings and Algebras
+KW  - Representation Theory
 ER  - 
