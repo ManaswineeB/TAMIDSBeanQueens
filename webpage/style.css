@@ -4,5 +4,54 @@ height:100%;
 }
 
 div {
-border:0px solid red;
+border:1px solid red;
+}
+
+div.header {
+position:relative;
+display:inline-block;
+width:100%;
+}
+
+div.title {
+position:relative;
+display:inline-block;
+width:100%;
+}
+
+div.section {
+position:relative;
+display:inline-block;
+width:100%;
+}
+
+div.image {
+position:relative;
+display:inline-block;
+width:100%;
+}
+
+p.header {
+width:100%;
+text-align:center;
+font-family:Verdana, Geneva, sans-serif;
+font-size:1.8vw;
+font-weight:bold;
+}
+
+p.sectiontitle {
+width:100%;
+text-align:center;
+font-family:Verdana, Geneva, sans-serif;
+font-size:1.5vw;
+font-weight:bold;
+}
+
+p.section {
+margin-left:10%;
+margin-right:10%;
+text-align:left;
+font-family:Verdana, Geneva, sans-serif;
+font-size:1vw;
+font-weight:bold;
 }
