@@ -4,7 +4,7 @@ height:100%;
 }
 
 div {
-border:1px solid red;
+border:0px solid red;
 }
 
 div.header {
@@ -17,6 +17,15 @@ div.title {
 position:relative;
 display:inline-block;
 width:100%;
+}
+
+div.sectionheader {
+position:relative;
+display:inline-block;
+width:100%;
+overflow:hidden;
+background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url("beans.jpg");
+background-size:cover;
 }
 
 div.section {
@@ -35,7 +44,7 @@ p.header {
 width:100%;
 text-align:center;
 font-family:Verdana, Geneva, sans-serif;
-font-size:2vw;
+font-size:2.4vw;
 font-weight:bold;
 }
 
@@ -43,7 +52,7 @@ p.info {
 width:100%;
 text-align:center;
 font-family:Verdana, Geneva, sans-serif;
-font-size:1.2vw;
+font-size:1.4vw;
 font-weight:bold;
 }
 
@@ -51,7 +60,8 @@ p.sectiontitle {
 width:100%;
 text-align:center;
 font-family:Verdana, Geneva, sans-serif;
-font-size:1.6vw;
+color:white;
+font-size:1.8vw;
 font-weight:bold;
 }
 
@@ -60,7 +70,7 @@ margin-left:10%;
 margin-right:10%;
 text-align:left;
 font-family:Verdana, Geneva, sans-serif;
-font-size:1vw;
+font-size:1.2vw;
 font-weight:bold;
 }
 
