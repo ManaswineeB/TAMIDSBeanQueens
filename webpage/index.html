@@ -20,17 +20,78 @@
   <p class="header">
     Bean Queens TAMIDS Data Science Competition Submission
   </p>
+  <p class="info">
+    By: Mansi Bezbaruah, Jacob Mashburn, Arpan Pal, Ben Warren, Thomas Yahl
+  </p>
 </div>
 
 <!-- START PAPER -->
-<div class="sectiontitle">
+<!-- FIRST SECTION -->
+<div class="section">
   <p class="sectiontitle">
-    Why the cheese should be considered a vegetable.
+    Executive Summary
   </p>
 </div>
 <div class="section">
   <p class="section">
-    cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese cheese cheesy i love cheese cheese love cheese 
+    We aim to visualise the current state of collaborations between the Texas A&M Departments of Mathematics, Statistics and Computer Science and identify sub-fields of each where these collaborations occur. Cornell University’s arXiv is an open-access archive of scholarly articles from each of these three areas which classifies articles by a refined system of tags. We gathered arXiv submissions published by Texas A&M University authors and grouped articles according to their corresponding tags. This data was then visualised to show connections between sub-fields of each field and which sub-fields may benefit from future collaborations with neighbouring areas. 
+  </p>
+</div>
+
+<!-- SECOND SECTION -->
+<div class="section">
+  <p class="sectiontitle">
+    Problem Statement
+  </p>
+  <p class="section">
+    As stated on their website, the arXiv is an open-access archive of over 2 million scholarly articles in the fields of Mathematics, Computer Science, Statistics, etc. Mathematics has significant collaborations with every other field that is featured on arXiv and so we studied the collaborations that Mathematicians at Texas A&M University have among its own sub-fields and with other fields. Therefore, our problem statement is:
+  </p>
+  <p class="problemstatement">
+    <i>How can we visualise the collaborations at Texas A&M University that occur between 
+sub-fields of mathematics and non-mathematical fields?</i>
+  </p>
+</div>
+
+<!-- THIRD SECTION -->
+<div class="section">
+  <p class="sectiontitle">
+    Datasets and Data Exploration
+  </p>
+  <p class="section">
+    Our goal was to collect research publication data for papers published by the Mathematics, Statistics, and Computer Science departments of Texas A&M University which included the subfields of each discipline that the papers in our data set correspond to. Initially, we used data from Dimensions (https://app.dimensions.ai), a competition dataset, to find publications with authors from Texas A&M University. This data did not include subfield information, however. The data from arXiv (https://arxiv.org), an outside dataset, includes which subfields its publications correspond to, but it does not consistently keep track of the institutions that its publications are affiliated with. To collect our data, then, we cross-referenced each paper from the Dimensions database to see if it had a corresponding entry on arXiv from which we could collect its subfield data. We used arXiv’s free API to conduct this step. The data we collected this way required some cleaning: a paper could have multiple drafts on arXiv, or authors could publish under different names, for instance. Our data set is made up of all Texas A&M publications that we found listed on arXiv.
+  </p>
+</div>
+
+<!-- FOURTH SECTION -->
+<div class="section">
+  <p class="sectiontitle">
+    Methodology
+  </p>
+  <p class="section">
+    Following is a timeline of our project:
+  </p>
+</div>
+
+<!-- FIFTH SECTION -->
+<div class="section">
+  <p class="sectiontitle">
+    Visualisation and Interpretation
+  </p>
+  <p class="section">
+
+  </p>
+</div>
+
+<!-- SIXTH SECTION -->
+<div class="section">
+  <p class="sectiontitle">
+    Conclusions and Recommendations
+  </p>
+  <p class="section">
+    We saw from the data that mathematicians at Texas A&M University are collaborating more 
+among subfields than with collaborators in Computer Science and Statistics. Moreover, we see that collaborations with Computer Science and Statistics have increased over the past few years, especially with the more newly emerging fields such as machine learning. Even so, we can identify that some subfields of mathematics such as Numerical Analysis are more active collaborators with other fields. 
+    During the collection of our datasets, we noticed that arXiv does not have “institution name” as one of the required fields when submitting preprints, so we had to go through a very time consuming process to filter out researchers at Texas A&M University. We would recommend APIs and scholarly databases to include institution names. Moreover, the arXiv API has several bugs that required us to include a mandatory sleep time between two consecutive calls, which made collecting the data slow. We didn’t use an API for the Dimensions data as it was downloadable, but it didn’t keep track of subfields. 
+Initially, we wanted to collect data for more scientific fields and include Physics, Biology, Material Sciences, et cetera, however due to the slow speed of our data collection and filtering process, we had to scrap those plans. We must also note that many of the papers we found on Dimensions did not have corresponding entries on arXiv. In particular, arXiv seems more popular in Mathematics than it does in other disciplines, and older papers show up less often on arXiv as well. This means that we cannot reliably conclude which fields of Mathematics have more or less collaborations with non-Mathematical fields as our collaboration data is incomplete. For future work, we would like to explore APIs and databases that have field labels like arXiv, but also allow for a more smooth data collection so we can visualise our networks better.
   </p>
 </div>
 

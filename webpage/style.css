@@ -35,7 +35,15 @@ p.header {
 width:100%;
 text-align:center;
 font-family:Verdana, Geneva, sans-serif;
-font-size:1.8vw;
+font-size:2vw;
+font-weight:bold;
+}
+
+p.info {
+width:100%;
+text-align:center;
+font-family:Verdana, Geneva, sans-serif;
+font-size:1.2vw;
 font-weight:bold;
 }
 
@@ -43,7 +51,7 @@ p.sectiontitle {
 width:100%;
 text-align:center;
 font-family:Verdana, Geneva, sans-serif;
-font-size:1.5vw;
+font-size:1.6vw;
 font-weight:bold;
 }
 
@@ -51,6 +59,15 @@ p.section {
 margin-left:10%;
 margin-right:10%;
 text-align:left;
+font-family:Verdana, Geneva, sans-serif;
+font-size:1vw;
+font-weight:bold;
+}
+
+p.problemstatement {
+margin-left:20%;
+margin-right:20%;
+text-align:center;
 font-family:Verdana, Geneva, sans-serif;
 font-size:1vw;
 font-weight:bold;
