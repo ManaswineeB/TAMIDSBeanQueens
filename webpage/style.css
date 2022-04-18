@@ -9,8 +9,8 @@ display: cell;
 margin:0;
 height:100%;
 width:100%;
-background:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2)), url("beans2.jpg");
-background-size:cover;
+background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url("beans2.jpg");
+background-size:auto;
 }
 
 div {
@@ -22,6 +22,7 @@ position:relative;
 display:inline-block;
 width:100%;
 background:white;
+padding-bottom:2%;
 }
 
 div.title {
@@ -77,19 +78,81 @@ font-weight:bold;
 }
 
 p.section {
+margin-top:2%;
+margin-bottom:2%;
 margin-left:10%;
 margin-right:10%;
 text-align:left;
 font-family:Verdana, Geneva, sans-serif;
-font-size:1.5svw;
+font-size:1.5vw;
 font-weight:bold;
 }
 
 p.problemstatement {
-margin-left:20%;
-margin-right:20%;
+margin-left:15%;
+margin-right:15%;
 text-align:center;
 font-family:Verdana, Geneva, sans-serif;
 font-size:1.5vw;
 font-weight:bold;
+}
+
+ul.timeline {
+margin-left:10%;
+margin-right:10%;
+}
+
+li.timeline {
+margin-top:2%;
+text-align:left;
+font-family:Verdana, Geneva, sans-serif;
+font-size:1.5vw;
+font-weight:bold;
+}
+
+iframe.img1 {
+margin-top:2%;
+margin-bottom:2%;
+width:100%;
+height:40vw;
+}
+
+iframe.img2 {
+margin-top:2%;
+margin-bottom:2%;
+width:100%;
+height:50vw;
+}
+
+iframe.img3 {
+margin-top:2%;
+margin-bottom:2%;
+width:100%;
+height:50vw;
+}
+
+img.img4 {
+margin-top:2%;
+margin-bottom:2%;
+width:100%;
+height:50vw;
+}
+
+img.img5 {
+margin-top:2%;
+margin-bottom:2%;
+width:100%;
+height:50vw;
+}
+
+img.img6 {
+margin-top:2%;
+margin-bottom:2%;
+width:100%;
+height:50vw;
+}
+
+div.filler {
+width:100%;
+height:7vw;
 }
